@@ -1,0 +1,4 @@
+node_modules
+games.json
+src/public/images/*
+!src/public/images/.gitkeep
